@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346268850512",
+    "firebase_url": "https://gpsfinalproject-7afcb.firebaseio.com",
+    "project_id": "gpsfinalproject-7afcb",
+    "storage_bucket": "gpsfinalproject-7afcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346268850512:android:d42ddd07c4177ba3e8f455",
+        "android_client_info": {
+          "package_name": "com.example.gpsFinalProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346268850512-rlidh3u9f36504r0u8f73vhp4sq07g4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhQGr7wZT9D7rKMwbvsFrUGmFwBoh3eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346268850512-rlidh3u9f36504r0u8f73vhp4sq07g4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
