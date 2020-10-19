@@ -1,4 +1,4 @@
-# gpsFinalProject
+# gpsFinalProject - Find my dog
 
 A new Flutter project.
 
