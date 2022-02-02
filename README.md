@@ -1,6 +1,7 @@
 # gpsFinalProject - Find my dog
 
 A new Flutter project.
+詳細介紹請打開Project introduction.pptx
 
 ## Getting Started
 
